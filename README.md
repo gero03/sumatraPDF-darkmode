@@ -1,4 +1,4 @@
 # sumatraPDF-darkmode
 darkmode for sumatraPDF
 
-python based program + executable fow windows.
+python based program + executable for windows.
